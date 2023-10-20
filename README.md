@@ -8,4 +8,4 @@ The full final report for the project can be read here: https://docs.google.com/
 Linktree: https://linktr.ee/unityengine
 
 
-At this time, the project code isn't available publically due to licensing. 
+At this time, the full project code isn't available on this repository due to privacy and licensing. Extracts from the project code can be found within the final report, however.
